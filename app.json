@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "temp",
+    "slug": "temp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#333d4f",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Images/checklist.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Images/checklist.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Images/checklist.png"
+    }
+  }
+}
